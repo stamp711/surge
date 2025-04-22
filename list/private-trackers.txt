@@ -1,0 +1,10 @@
+PROCESS-NAME,Transmission
+DOMAIN,portcheck.transmissionbt.com
+
+DOMAIN,tracker.byr.pt
+DOMAIN,tracker-public.tjupt.org
+DOMAIN,tracker.sjtu.edu.cn
+DOMAIN,announce.haidan.video
+DOMAIN,tracker.monikadesign.uk
+DOMAIN,tracker.open.cd
+DOMAIN,connects.icu
